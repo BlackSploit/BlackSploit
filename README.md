@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BlackSploit
-- 👀 I’m interested in ...almost nothing in present
+- 👀 I’m interested in ...decentralization of world
 - 🌱 I’m currently learning ...webapksec
 - 💞️ I’m looking to collaborate on ...web3 projects
 - 📫 How to reach me ...blacksploitx0@gmail.com
